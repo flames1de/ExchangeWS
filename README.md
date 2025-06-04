@@ -30,13 +30,6 @@
 git clone https://github.com/your-username/currency-rates-app.git
 cd currency-rates-app
 ```
----
-
-## 📁 Структура проекта
-. 
-├── index.html
-├── style.css
-└── script.js
 
 ---
 
